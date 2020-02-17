@@ -1,0 +1,462 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home FETCH_TRACKS_BEGIN (snapshot equal) 1`] = `
+Array [
+  Object {
+    "searchText": "john",
+    "type": "FETCH_TRACKS_BEGIN",
+  },
+]
+`;
+
+exports[`Home FETCH_TRACKS_SUCCESS (snapshot equal) 1`] = `
+Array [
+  Object {
+    "payload": Object {
+      "tracks": Array [
+        Object {
+          "artistId": 909253,
+          "artistName": "Jack Johnson",
+          "artistViewUrl": "https://music.apple.com/us/artist/jack-johnson/909253?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/60x60bb.jpg",
+          "collectionCensoredName": "In Between Dreams (Bonus Track Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 1440857781,
+          "collectionName": "In Between Dreams (Bonus Track Version)",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/better-together/1440857781?i=1440857786&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/94/25/9c/94259c23-84ee-129d-709c-577186cbe211/mzaf_5653537699505456197.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2005-03-01T12:00:00Z",
+          "trackCensoredName": "Better Together",
+          "trackCount": 15,
+          "trackExplicitness": "notExplicit",
+          "trackId": 1440857786,
+          "trackName": "Better Together",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 207679,
+          "trackViewUrl": "https://music.apple.com/us/album/better-together/1440857781?i=1440857786&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 909253,
+          "artistName": "Jack Johnson",
+          "artistViewUrl": "https://music.apple.com/us/artist/jack-johnson/909253?uo=4",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/be/38/d0/be38d058-31ed-c0ea-91e6-12052865fd20/source/100x100bb.jpg",
+          "artworkUrl30": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/be/38/d0/be38d058-31ed-c0ea-91e6-12052865fd20/source/30x30bb.jpg",
+          "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/be/38/d0/be38d058-31ed-c0ea-91e6-12052865fd20/source/60x60bb.jpg",
+          "collectionCensoredName": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 1469577723,
+          "collectionName": "Jack Johnson and Friends: Sing-A-Longs and Lullabies for the Film Curious George",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/upside-down/1469577723?i=1469577741&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/75/5a/fc/755afca1-d911-be2b-c0fb-f99d6d52ce1a/mzaf_4156076990936187406.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2006-02-06T12:00:00Z",
+          "trackCensoredName": "Upside Down",
+          "trackCount": 14,
+          "trackExplicitness": "notExplicit",
+          "trackId": 1469577741,
+          "trackName": "Upside Down",
+          "trackNumber": 1,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 208643,
+          "trackViewUrl": "https://music.apple.com/us/album/upside-down/1469577723?i=1469577741&uo=4",
+          "wrapperType": "track",
+        },
+        Object {
+          "artistId": 909253,
+          "artistName": "Jack Johnson",
+          "artistViewUrl": "https://music.apple.com/us/artist/jack-johnson/909253?uo=4",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/100x100bb.jpg",
+          "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/30x30bb.jpg",
+          "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/60x60bb.jpg",
+          "collectionCensoredName": "In Between Dreams (Bonus Track Version)",
+          "collectionExplicitness": "notExplicit",
+          "collectionId": 1440857781,
+          "collectionName": "In Between Dreams (Bonus Track Version)",
+          "collectionPrice": 9.99,
+          "collectionViewUrl": "https://music.apple.com/us/album/banana-pancakes/1440857781?i=1440857795&uo=4",
+          "country": "USA",
+          "currency": "USD",
+          "discCount": 1,
+          "discNumber": 1,
+          "isStreamable": true,
+          "kind": "song",
+          "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/51/ba/f8/51baf8ca-e417-56e8-d6e1-4f02634e451c/mzaf_5766837215935557210.plus.aac.p.m4a",
+          "primaryGenreName": "Rock",
+          "releaseDate": "2005-03-01T12:00:00Z",
+          "trackCensoredName": "Banana Pancakes",
+          "trackCount": 15,
+          "trackExplicitness": "notExplicit",
+          "trackId": 1440857795,
+          "trackName": "Banana Pancakes",
+          "trackNumber": 3,
+          "trackPrice": 1.29,
+          "trackTimeMillis": 191854,
+          "trackViewUrl": "https://music.apple.com/us/album/banana-pancakes/1440857781?i=1440857795&uo=4",
+          "wrapperType": "track",
+        },
+      ],
+    },
+    "type": "FETCH_TRACKS_SUCCESS",
+  },
+]
+`;
+
+exports[`Home should render initial state from Redux store 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "flex": 1,
+      "marginTop": 0,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 50,
+        "margin": 10,
+      }
+    }
+  >
+    <TextInput
+      allowFontScaling={true}
+      defaultValue=""
+      onChangeText={[Function]}
+      placeholder="Search iTunes"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "borderColor": "gray",
+          "borderRadius": 5,
+          "borderWidth": 0.5,
+          "height": 40,
+          "marginLeft": 0,
+          "paddingLeft": 10,
+          "width": "80%",
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <View
+      accessibilityRole="button"
+      accessibilityStates={Array []}
+      accessible={true}
+      focusable={true}
+      isTVSelectable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Array [
+            Object {},
+          ]
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#007AFF",
+                "fontSize": 18,
+                "padding": 8,
+                "textAlign": "center",
+              },
+            ]
+          }
+        >
+          Search
+        </Text>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "center",
+        "marginTop": 0,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "alignItems": "center",
+          "color": "gray",
+          "fontSize": 18,
+          "textAlignVertical": "center",
+        }
+      }
+    >
+      Type Something into search bar to begin
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;
+
+exports[`Home should render state with data from Redux store 1`] = `
+Array [
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "padding": 10,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/100x100bb.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 70,
+            "width": 70,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 18,
+              "height": 50,
+              "width": 300,
+            }
+          }
+        >
+          Better Together
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 14,
+              "height": 40,
+              "width": 140,
+            }
+          }
+        >
+          by Jack Johnson
+        </Text>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "padding": 10,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/be/38/d0/be38d058-31ed-c0ea-91e6-12052865fd20/source/100x100bb.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 70,
+            "width": 70,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 18,
+              "height": 50,
+              "width": 300,
+            }
+          }
+        >
+          Upside Down
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 14,
+              "height": 40,
+              "width": 140,
+            }
+          }
+        >
+          by Jack Johnson
+        </Text>
+      </View>
+    </View>
+  </View>,
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "padding": 10,
+        }
+      }
+    >
+      <Image
+        source={
+          Object {
+            "uri": "https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/24/46/97/24469731-f56f-29f6-67bd-53438f59ebcb/source/100x100bb.jpg",
+          }
+        }
+        style={
+          Object {
+            "height": 70,
+            "width": 70,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "paddingLeft": 10,
+          }
+        }
+      >
+        <Text
+          style={
+            Object {
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 18,
+              "height": 50,
+              "width": 300,
+            }
+          }
+        >
+          Banana Pancakes
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "gray",
+              "flex": 1,
+              "flexWrap": "wrap",
+              "fontSize": 14,
+              "height": 40,
+              "width": 140,
+            }
+          }
+        >
+          by Jack Johnson
+        </Text>
+      </View>
+    </View>
+  </View>,
+]
+`;
