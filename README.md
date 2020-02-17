@@ -8,10 +8,10 @@ app allows user to search for music and play music and go to next music and prev
   - react-native run-android (For android)
 
 ###### iOS screenshots
-![ioshome](ReadMeImage/iOS_home.png =250)    ![iosdetail](ReadMeImage/iOS_details.png =250)
+![ioshome](ReadMeImage/iOS_home.png | width=250)    ![iosdetail](ReadMeImage/iOS_details.png | width=250)
 
 ###### android screenshots
-![androidhome](ReadMeImage/android_home.png =250)    ![androiddetail](ReadMeImage/android_details.png =250)
+![androidhome](ReadMeImage/android_home.png | width=250)    ![androiddetail](ReadMeImage/android_details.png | width=250)
 
 ###### App architecture
 - App is using UMCore and unimodules for using expo-av
