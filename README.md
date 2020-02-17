@@ -12,7 +12,7 @@ app allows user to search for music and play music and go to next music and prev
     
 
 ###### android screenshots
-<img src="ReadMeImage/android_home.png" width="40%">  <img src="ReadMeImage/abdroid_details.png" width="40%">
+<img src="ReadMeImage/android_home.png" width="40%">  <img src="ReadMeImage/android_details.png" width="40%">
 
 ###### App architecture
 - App is using UMCore and unimodules for using expo-av
